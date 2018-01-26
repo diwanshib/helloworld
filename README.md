@@ -1,2 +1,3 @@
 # helloworld
 A hello-world repository can be a place where you store ideas, resources, or even share and discuss things with others. According to GitHub...
+This is the first time I am using Github and I think it is a bit complex to use now. Hope it gets easier as I continue..
